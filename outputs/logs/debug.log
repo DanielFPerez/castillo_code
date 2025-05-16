@@ -1,0 +1,44 @@
+STARTING EXPERIMENT AT: 2025-03-08 16:21:12
+INFO	src.utils.logger |:|	logger initialized with file: outputs/logs/debug.log
+INFO	__main__ |:|	Application started with custom logging settings.
+INFO	__main__ |:|	Using dataset(s): ['DollyDataset']
+INFO	__main__ |:|	Using model: meta-llama/Llama-3.2-3B-Instruct
+INFO	__main__ |:|	Using device: auto
+INFO	__main__ |:|	Loading model and tokenizer...
+INFO	__main__ |:|	Using cache directory: /my/path/.cache/huggingface/hub/
+INFO	__main__ |:|	Loaded model and tokenizer for model: meta-llama/Llama-3.2-3B-Instruct
+INFO	__main__ |:|	Loading generation config for model: meta-llama/Llama-3.2-3B-Instruct
+INFO	__main__ |:|	Generation config:.
+         Generation Strategy: 
+         	- do_sample: True 
+         	- num_beams: 1 
+
+         Model Output Logit manipulation: 
+         	- top-k: 50 
+         	- top-p: 0.9 
+         	- min-p: None 
+         	- temperature: 0.6
+INFO	__main__ |:|	Processing dataset: DollyDataset
+
+
+#### STARTING EXPERIMENT AT: 2025-03-08 16:21:41
+INFO	src.utils.logger |:|	logger initialized with file: outputs/logs/debug.log
+INFO	__main__ |:|	Application started with custom logging settings.
+INFO	__main__ |:|	Using dataset(s): ['DollyDataset']
+INFO	__main__ |:|	Using model: meta-llama/Llama-3.2-3B-Instruct
+INFO	__main__ |:|	Using device: auto
+INFO	__main__ |:|	Loading model and tokenizer...
+INFO	__main__ |:|	Using cache directory: /my/path/.cache/huggingface/hub/
+INFO	__main__ |:|	Loaded model and tokenizer for model: meta-llama/Llama-3.2-3B-Instruct
+INFO	__main__ |:|	Loading generation config for model: meta-llama/Llama-3.2-3B-Instruct
+INFO	__main__ |:|	Generation config:.
+         Generation Strategy: 
+         	- do_sample: True 
+         	- num_beams: 1 
+
+         Model Output Logit manipulation: 
+         	- top-k: 50 
+         	- top-p: 0.9 
+         	- min-p: None 
+         	- temperature: 0.6
+INFO	__main__ |:|	Processing dataset: DollyDataset

@@ -1,0 +1,105 @@
+#### STARTING EXPERIMENT AT: 2025-05-12 19:48:38
+INFO	src.utils.logger |:|	logger initialized with file: /my/path/outputs/logs/2025-05-12_sanitize_dataset.log
+INFO	root |:|	Starting dataset sanitization process
+INFO	root |:|	Created output directories: castillo/sanitized and castillo/degenerate
+INFO	root |:|	Found 3 JSON files in castillo/default
+INFO	root |:|	Processing file: castillo/default/default_validate.json
+INFO	root |:|	Loaded 23753 samples from default_validate.json
+INFO	root |:|	Identified 148 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 23753 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_validate.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_validate.json
+INFO	root |:|	Processing file: castillo/default/default_train.json
+INFO	root |:|	Loaded 85209 samples from default_train.json
+INFO	root |:|	Identified 597 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 85207 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_train.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_train.json
+INFO	root |:|	Processing file: castillo/default/default_test.json
+INFO	root |:|	Loaded 11881 samples from default_test.json
+INFO	root |:|	Identified 62 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 11880 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_test.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_test.json
+INFO	root |:|	Dataset sanitization completed successfully
+
+
+
+######################################################################## STARTING EXPERIMENT AT: 2025-05-12 20:01:31
+INFO	src.utils.logger |:|	logger initialized with file: /my/path/outputs/logs/2025-05-12_sanitize_dataset.log
+INFO	root |:|	Starting dataset sanitization process
+INFO	root |:|	Created output directories: castillo/sanitized and castillo/degenerate
+INFO	root |:|	Found 3 JSON files in castillo/original
+INFO	root |:|	Processing file: castillo/original/original_test.json
+INFO	root |:|	Loaded 11881 samples from original_test.json
+INFO	root |:|	Identified 62 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 11880 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_original_test.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_original_test.json
+INFO	root |:|	Processing file: castillo/original/original_validate.json
+INFO	root |:|	Loaded 23753 samples from original_validate.json
+INFO	root |:|	Identified 148 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 23753 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_original_validate.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_original_validate.json
+INFO	root |:|	Processing file: castillo/original/original_train.json
+INFO	root |:|	Loaded 85209 samples from original_train.json
+INFO	root |:|	Identified 597 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 85207 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_original_train.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_original_train.json
+INFO	root |:|	Dataset sanitization completed successfully
+
+
+
+######################################################################## STARTING EXPERIMENT AT: 2025-05-12 20:03:07
+INFO	src.utils.logger |:|	logger initialized with file: /my/path/outputs/logs/2025-05-12_sanitize_dataset.log
+INFO	root |:|	Starting dataset sanitization process
+INFO	root |:|	Created output directories: castillo/sanitized and castillo/degenerate
+INFO	root |:|	Found 3 JSON files in castillo/original
+INFO	root |:|	Processing file: castillo/original/original_test.json
+INFO	root |:|	Loaded 11881 samples from original_test.json
+INFO	root |:|	Identified 62 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 11880 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_test.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_test.json
+INFO	root |:|	Processing file: castillo/original/original_validate.json
+INFO	root |:|	Loaded 23753 samples from original_validate.json
+INFO	root |:|	Identified 148 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 23753 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_validate.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_validate.json
+INFO	root |:|	Processing file: castillo/original/original_train.json
+INFO	root |:|	Loaded 85209 samples from original_train.json
+INFO	root |:|	Identified 597 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 85207 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_train.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_train.json
+INFO	root |:|	Dataset sanitization completed successfully
+
+
+
+######################################################################## STARTING EXPERIMENT AT: 2025-05-13 01:00:39
+INFO	src.utils.logger |:|	logger initialized with file: /my/path/outputs/logs/2025-05-12_sanitize_dataset.log
+INFO	root |:|	Starting dataset sanitization process
+INFO	root |:|	Created output directories: castillo/sanitized and castillo/degenerate
+INFO	root |:|	Found 3 JSON files in castillo/original
+INFO	root |:|	Processing file: castillo/original/original_test.json
+INFO	root |:|	Loaded 11881 samples from original_test.json
+INFO	root |:|	Identified 62 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 11880 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_test.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_test.json
+INFO	root |:|	Processing file: castillo/original/original_validate.json
+INFO	root |:|	Loaded 23753 samples from original_validate.json
+INFO	root |:|	Identified 148 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 23753 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_validate.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_validate.json
+INFO	root |:|	Processing file: castillo/original/original_train.json
+INFO	root |:|	Loaded 84578 samples from original_train.json
+INFO	root |:|	Identified 597 samples with degeneration
+INFO	root |:|	Created sanitized dataset with 84576 samples
+INFO	root |:|	Saved sanitized dataset to castillo/sanitized/sanitized_train.json
+INFO	root |:|	Saved degeneration dataset to castillo/degenerate/degenerate_train.json
+INFO	root |:|	Dataset sanitization completed successfully

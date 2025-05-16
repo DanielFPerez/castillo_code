@@ -1,0 +1,13 @@
+#### STARTING EXPERIMENT AT: 2025-05-05 22:06:42
+INFO	src.utils.logger |:|	logger initialized with file: /my/path//outputs/logs/2025-05-05_preproc_to_hf.log
+INFO	root |:|	Starting preprocessing to HuggingFace format.
+INFO	__main__ |:|	Found 69 files in data/preprocessed/train
+INFO	__main__ |:|	Merged 76139 samples from data/preprocessed/train
+INFO	__main__ |:|	Saved merged file for split 'train' to: castillo/default/default_train.json
+INFO	__main__ |:|	Found 63 files in data/preprocessed/validate
+INFO	__main__ |:|	Merged 20390 samples from data/preprocessed/validate
+INFO	__main__ |:|	Saved merged file for split 'validate' to: castillo/default/default_validate.json
+INFO	__main__ |:|	Found 62 files in data/preprocessed/test
+INFO	__main__ |:|	Merged 10058 samples from data/preprocessed/test
+INFO	__main__ |:|	Saved merged file for split 'test' to: castillo/default/default_test.json
+INFO	root |:|	Processing complete.
