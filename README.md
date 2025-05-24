@@ -82,10 +82,13 @@ The "mylog.logs" file will be saved under "./outputs/logs" directory.
 
 ```bibtex
 @misc{perezramirez2025castillo,
-  title={CASTILLO: Characterizing Response Length Distributions in Large Language Models},
-  author={Perez-Ramirez, Daniel and Kostic, Dejan and Boman, Magnus},
-  year={2025},
-  note={Work in progress}
+      title={CASTILLO: Characterizing Response Length Distributions of Large Language Models}, 
+      author={Daniel F. Perez-Ramirez and Dejan Kostic and Magnus Boman},
+      year={2025},
+      eprint={2505.16881},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.16881}, 
 }
 ```
 ## 🪪 License
